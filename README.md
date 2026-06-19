@@ -35,3 +35,9 @@ All hyperparameters are in config.json:
 | NB    | TF-IDF    | worst    |          |
 
 (Fill in actual numbers from your notebook output)
+| Model | Vectorizer | Accuracy | Macro F1 |
+|-------|-----------|----------|----------|
+| LR    | TF-IDF    | 1.00     | 1.00     |
+| LR    | BoW       | 1.00     | 1.00     |
+| NB    | BoW       | 1.00     | 1.00     |
+| NB    | TF-IDF    | 1.00     | 1.00     |
